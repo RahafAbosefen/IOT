@@ -38,7 +38,7 @@ Mosquitto default installation path:
 pip install paho-mqtt
 ```
 
-### 3 — Create Publisher Files
+### 3 Create Publisher Files
 
 ```bash
 publisher_temperature.py
@@ -46,7 +46,7 @@ publisher_humidity.py
 publisher_people.py
 ```
 
-## Step 4 — Create Subscriber Files
+##  4  Create Subscriber Files
 
 ```bash
 subscriber_temperature.py
